@@ -1,0 +1,54 @@
+﻿
+
+@{ 
+    var returnUrl = ViewData["ReturnUrl"] as string;
+    var erro = TempData["Error"] as string; 
+}
+<h2>Login</h2>
+@if(!string.IsNullOrEmpty(erro))
+            {
+                <h1 class="alert-danger" style="padding:10px">@erro</h1>
+            }
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>User</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <form  method="post">
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                <div class="form-outline form-white mb-4">
+                    <input type="text" name="username" class="form-control form-control-lg" />
+                    <label class="form-label"  for="typeEmailX">Login</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+
+            <div class="col-md-10">
+                <div class="form-outline form-white mb-4">
+                    <input type="password" name="password" class="form-control form-control-lg" />
+                    <label class="form-label" for="typePasswordX">Password</label>
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </div>
+
+    </form>
+        
+    </div>
+}
+
+

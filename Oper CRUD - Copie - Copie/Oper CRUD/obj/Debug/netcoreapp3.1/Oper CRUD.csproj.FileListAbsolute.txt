@@ -1,0 +1,468 @@
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.exe
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.deps.json
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.json
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.dev.json
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.AssemblyReference.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfoInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CoreCompileInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.MvcApplicationPartsAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.Manifest.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.xml
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\scopedcss\bundle\Oper CRUD.styles.css
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.input.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.output.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorCoreGenerate.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CopyComplete
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.genruntimeconfig.cache
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Create.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Edit.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Details.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Delete.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.exe
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.deps.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.dev.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.AssemblyReference.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfoInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CoreCompileInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.MvcApplicationPartsAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.Manifest.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.xml
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\scopedcss\bundle\Oper CRUD.styles.css
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.input.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.output.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorCoreGenerate.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Create.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Delete.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Details.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Edit.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CopyComplete
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.genruntimeconfig.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\appsettings.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.exe
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.deps.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.runtimeconfig.dev.json
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.AssemblyReference.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfoInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.AssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CoreCompileInputs.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.MvcApplicationPartsAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.Manifest.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\staticwebassets\Oper CRUD.StaticWebAssets.xml
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\scopedcss\bundle\Oper CRUD.styles.css
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.input.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.TagHelpers.output.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorCoreGenerate.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.RazorTargetAssemblyInfo.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.Views.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.csproj.CopyComplete
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.dll
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.pdb
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Oper CRUD.genruntimeconfig.cache
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Create.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Edit.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Details.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Etudiant\Delete.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+F:\vs_projects\ASP.NET\Oper CRUD - Copie - Copie\Oper CRUD\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
